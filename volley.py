@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 # volley.py - Create match thread style info for reddit from volleyball games
 # Further Information:
-# https://crap.solutions/pages/volley.html https://github.com/sigttou/volley.py
+# https://crap.solutions/pages/volley.html https://github.com/Crap-Solutions/volley.py
 
 import urllib3
 from bs4 import BeautifulSoup
